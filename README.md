@@ -1,6 +1,6 @@
 # \HackNC Fall-2016
 
-https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/433/988/datas/gallery.jpg
+[logo](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/433/988/datas/gallery.jpg)
 
 ## DevPost URL: https://devpost.com/software/friendzone-79vzjl
 
